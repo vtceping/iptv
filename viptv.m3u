@@ -627,7 +627,26 @@ http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="北京",石景山有线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼1
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼2
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼3
+http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼4
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼5
+http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼6
+http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼7
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼8
+http://dyscdnali1.douyucdn.cn/live/10324302rNI1tpLI.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼9
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼影视",斗鱼10
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 
 
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘娱乐
