@@ -151,7 +151,7 @@
 {"name": "HY体育","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"},{"name": "DY户外","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTI0Lw==","qianzhui":"aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2RvdXl1Lw=="},
 {"name": "HY户外","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"},
 {"name":"yy","fanye": "aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"}],
-"zhujiexi": "https://app.iminna.com/jx/?url=#https://humaosp.com/json.php?url=",
+"zhujiexi": "https://jx.sujx.top/jiexi.php/?url=#https://www.pangujiexi.com/pangu/?url=#https://app.iminna.com/jx/?url=#https://humaosp.com/json.php?url=",
 "beiyongjiexi": "https://5ile.cn/5ileplay/?url=#https://rrm.lswwe.com/m3u8/peiqi/?url=#https://freejx.rx88.top:1234/?url=#https://nbjx.vip/?url=",
 "dianshizhibo": "http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/biubiu/20220508.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
