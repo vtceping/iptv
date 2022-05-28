@@ -205,6 +205,7 @@ https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url=#
 https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#
 https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=#
 https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=",
+"beiyongjiexi": "https://5ile.cn/5ileplay/?url=#https://m3u8.lswwe.com/?url=#https://freejx.rx88.top:1234/?url=#https://nbjx.vip/?url=#https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=#https://vvip.funsline.cn/api/?key=JNiddoRwmLBYehxnFq&url=",
 "dianshizhibo": "http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/biubiu/20220508.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
